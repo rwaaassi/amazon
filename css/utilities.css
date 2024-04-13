@@ -1,38 +1,38 @@
 :root {
-    --secondary-color: rgb(0,113,133);
+  --secondary-color: rgb(0, 113, 133);
 }
 main a:hover {
-color: orange;
-border-bottom: 1px solid orange;
+  color: orange;
+  border-bottom: 1px solid orange;
 }
-.options button:hover{
-    background: rgb(244, 241, 241);
+.options button:hover {
+  background: rgb(244, 241, 241);
 }
 .top-nav .location:hover {
-border: 1px solid white;
+  border: 1px solid white;
 }
 .top-nav .lang:hover {
-border: 1px solid white;
+  border: 1px solid white;
 }
 .top-nav .account:hover {
-border: 1px solid white;
+  border: 1px solid white;
 }
 .top-nav .orders:hover {
-border: 1px solid white;
+  border: 1px solid white;
 }
 .top-nav .cart:hover {
-border: 1px solid white;
+  border: 1px solid white;
 }
 .top-nav .logo:hover {
-border: 1px solid white;
+  border: 1px solid white;
 }
 .nav-shop a:hover {
-border: 1px solid white;
+  border: 1px solid white;
 }
 .books-nav a:hover {
-    color: orange;
-    border-bottom: 1px solid orange;
+  color: orange;
+  border-bottom: 1px solid orange;
 }
 button {
-    cursor: pointer;
+  cursor: pointer;
 }
